@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "611583061254",
+    "firebase_url": "https://newa-82463-default-rtdb.firebaseio.com",
+    "project_id": "newa-82463",
+    "storage_bucket": "newa-82463.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611583061254:android:1d594ce142170f9e934287",
+        "android_client_info": {
+          "package_name": "com.example.gh_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVvz13xax33USgwI8CcpglBSsq8jCVCaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

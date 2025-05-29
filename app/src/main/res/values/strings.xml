@@ -1,0 +1,24 @@
+<resources>
+    <string name="select_prompt">Select</string>
+    <string name="app_name">Project Green House</string>
+    <string name="open_nav">Open Project Green House</string>
+    <string name="close_nav">Close Project Green House</string>
+    <string name="about_us_fragment_still_developing">About Us Fragment Still developing</string>
+    <string name="setting_fragment_still_developing">Setting Fragment Still developing</string>
+    <string name="share_fragment_still_developing">Share Fragment Still developing</string>
+    <string name="welcome_to_green_house_mobile_app">Welcome To Green House Mobile App</string>
+    <string name="birthday">your_font_path_here</string>
+    <string-array name="country_array">
+        <item>Sri Lanka</item>
+        <item>Japan</item>
+        <item>UK</item>
+        <item>Italy</item>
+        <item>Australia</item>
+        <item>Austria</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

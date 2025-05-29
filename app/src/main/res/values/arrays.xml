@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- res/values/arrays.xml -->
+
+        <string-array name="years_array">
+            <item>Select Year</item>
+            <item>2010</item>
+            <item>2011</item>
+            <item>2012</item>
+            <item>2013</item>
+            <item>2014</item>
+            <item>2015</item>
+            <item>2016</item>
+            <item>2017</item>
+            <item>2018</item>
+            <item>2019</item>
+            <item>2020</item>
+            <item>2021</item>
+            <item>2022</item><item>2013</item>
+            <item>2023</item>
+            <item>2024</item>
+            <item>2025</item>
+            <item>2026</item>
+        </string-array>
+
+        <string-array name="months_array">
+            <item>Select Month</item>
+            <item>January</item>
+            <item>February</item>
+            <item>March</item>
+            <item>April</item>
+            <item>May</item>
+            <item>June</item>
+            <item>July</item>
+            <item>August</item>
+            <item>September</item>
+            <item>October</item>
+            <item>November</item>
+            <item>December</item>
+        </string-array>
+
+        <string-array name="provinces_array">
+            <item>Select Provinces</item>
+            <item> North </item>
+            <item>North Western</item>
+            <item>Southern</item>
+            <item>Western</item>
+            <item>North Central</item>
+            <item>Central</item>
+            <item>Uva</item>
+            <item>Estern</item>
+
+            <!-- Add more provinces as needed -->
+        </string-array>
+
+        <string-array name="soil_types_array">
+            <item>Select Soil Type</item>
+            <item>Loam/Sand</item>
+            <item>Sand/Loam</item>
+            <item>Sand</item>
+            <item>Loam</item>
+
+            <!-- Add more soil types as needed -->
+        </string-array>
+    </resources>
+
+
